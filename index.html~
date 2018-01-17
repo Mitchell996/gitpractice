@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title><h1 align = "center"><b> Mitchell Johnson</b> </h1></title>
+     <hr width ="50%" align ="center">
+  </head>
+  <body background="http://kittenrescue.org/wp-content/uploads/2017/03/KittenRescue_KittenCareHandbook.jpg"  >
+    <title><h2> About:</h2></title>
+    <p align= "left">I am 21 years old and a Computer Science: bioinformatics emphasis major.  I like to party.  I served my mission in Portland Oregon, spanish speaking. </p>
+    <title><h2>projects:</h2></title>
+    <p align= "left">here are some prjects I have worked on:
+      <ul>
+    <li>manually creating the malloc function</li>
+    <li>minesweeper with a really crappy GUI</li>
+    <li>a helloworld file</li>
+      </ul>
+      </p>
+    <title><h3>experience:</h3></title>
+    <p>
+      I have plenty of experience working, it's just all not in a field that's relevant</p>
+    <title><h4>contact me:</h4></title>
+    <p>
+      actually, I really don't want you to contact me. 
+	 You won't find me on any<a href="https://omfgdogs.com/ "> social media</a>, and I sure as heck ain't giving you my email or phone number
+      </p>
+      
+  </body>
+  <hr width ="50%" align ="center">
+</html>
+
+
