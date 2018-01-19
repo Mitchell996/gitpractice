@@ -1,0 +1,17 @@
+<html>
+<head>
+<link rel="stylesheet" href="portfolio.css">
+ <title>Work Experience relevant to my field</title></head>
+<body>
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="projects.html">projects</a></li>
+  <li><a href="contact.html">Contact</a></li>
+  <li><a href="experience.html">experience</a></li>
+</ul>
+<p>here's where I'd put my relevant work experience.</p>
+<p><img src = "https://memegenerator.net/img/images/2276176.jpg" alt= "if I had any">
+<b><h1>IF I HAD ANY </h1></b>
+</p>
+</body>
+</html>

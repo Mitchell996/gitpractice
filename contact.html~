@@ -1,0 +1,27 @@
+<html>
+<head>
+
+<link rel="stylesheet" href="portfolio.css">
+<title>Contact me</title>
+</head>
+<body>
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="projects.html">projects</a></li>
+  <li><a href="contact.html">Contact</a></li>
+  <li><a href="experience.html">experience</a></li>
+</ul>
+
+<p><h1>Contact me: </h1></p>
+<p>Actually, don't.</p>
+<p>but if you really want to, feel free to message me on<a href = "https://www.facebook.com/mitchell.a.johnson.39"> facebook</a>
+ I use it about once every month, so that's pretty much just like not contacting me.
+
+Love,
+     Mitchell
+</p>
+
+</body>
+
+
+</html>

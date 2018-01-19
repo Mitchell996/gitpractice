@@ -1,0 +1,61 @@
+<html>
+<head>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+<link rel="stylesheet" href="portfolio.css">
+<title>Mitchell Johnson: Projects </title></head>
+<body>
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="projects.html">projects</a></li>
+  <li><a href="contact.html">Contact</a></li>
+  <li><a href="experience.html">Experience</a></li>
+</ul>
+
+<p><h1 align = "center" >Malloc lab </h1></p>
+<p align = "left">
+In this lab, we were required to create our own malloc, and increase its
+ efficency in whatever way we could. 
+ This was extremely complicated, as we had to keep track of our memory usage
+ and manually permit ourselves to use it, as well as keep track of where we
+ might have free memory or allocated memory. Created in C
+</p>
+<p align = "center"><h2 align = "center">Minesweeper </h2></p>
+<p align = "left">
+For Minesweeper,  We had to familiarize ourselves witha simple GUI and
+ manipulate it so that you could play a game with it.  This included the tiles having a touch reaction, recursively revealing area where there was no mines 
+or numbers surrounding a tile, and being able to randomly generate a winnable
+game.  Created in Java
+</p> 
+<p align = "center"><h3>HelloWorld </h3></p>
+<p>
+I ain't telling you nothing about the hello world program
+</p>
+</body>
+</html>
